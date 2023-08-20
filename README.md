@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @krnlzdev
+- 🌱 I’m currently learning at Cegep Limoilou
