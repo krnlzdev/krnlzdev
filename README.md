@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @krnlzdev
-- 🌱 I’m currently learning at Cegep Limoilou
+disc : krnlz
+github : krnlzdev
+twitter : @Kqrnelz
